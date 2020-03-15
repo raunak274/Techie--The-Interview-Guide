@@ -1,4 +1,4 @@
 # Techie--The-Interview-Guide
 
 
-credit : Poonam Shekhawat
+Contributed by : Poonam Shekhawat
