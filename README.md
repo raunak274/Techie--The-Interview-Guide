@@ -1,4 +1,4 @@
 # Techie--The-Interview-Guide
 
 
-Contributed by : Raunak Kumar, Poonam Shekhawat
+Contributed by : Poonam Shekhawat
